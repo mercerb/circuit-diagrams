@@ -1,0 +1,2 @@
+A folder for circuit diagrams and schematics for Brooklyness products.
+Mainly for the Classon helmet.
